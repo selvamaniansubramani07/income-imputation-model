@@ -1,0 +1,78 @@
+feature,importance
+loan_to_tpv,0.5245771718501561
+disbursed_amount,0.4359859262743643
+amount_x_score,0.027872875659807457
+amount_per_age,0.006672129787847541
+pincode,0.0012048835549976133
+source_entity_name_TTT,0.0005864064776293484
+score,0.0004725706691684264
+age,0.00039494142332629454
+disbursed_month,0.0002428506832787657
+industryy_Grocery And Daily Needs,0.0001646712477802826
+source_entity_name_PPP,0.00015299231881198182
+disbursed_quarter,0.0001365698216993939
+state_TELANGANA,0.00011633631237981785
+industryy_Service And Utilities,9.743477510906783e-05
+is_metro_city,9.43030965696668e-05
+industryy_Food & Beverages,8.216720071383909e-05
+age_band_31-35,8.133493553702554e-05
+score_band_700-749,8.08586773979957e-05
+state_Telangana,7.838533688428742e-05
+state_Karnataka,7.489152372655813e-05
+industryy_Retail And Shopping,6.21602668552394e-05
+age_band_36-45,5.8562564585801206e-05
+age_band_26-30,4.7099924177345455e-05
+state_Uttar Pradesh,4.671816242250236e-05
+state_Maharashtra,4.4480390804324185e-05
+disbursed_year,4.3311453383216054e-05
+state_Delhi,3.901416738932229e-05
+gender_Male,3.815902253074612e-05
+age_band_46-60,3.5513819524434246e-05
+score_band_>750,3.511281166962681e-05
+state_Haryana,3.4732917229592415e-05
+score_band_<600,3.458419554352653e-05
+status_DISBURSED,3.3013610171683996e-05
+industryy_Others,3.2179026291459974e-05
+state_Rajasthan,2.8644512939848594e-05
+status_CLOSED,2.7512273542917897e-05
+state_West Bengal,2.52634176721801e-05
+industryy_Healthcare And Wellness,2.180438970704332e-05
+state_Uttarakhand,2.112346459936534e-05
+state_Punjab,1.9024518752700622e-05
+state_Kerala,1.8339121875121023e-05
+state_Tamil Nadu,1.6581525674961066e-05
+state_Madhya Pradesh,1.2032370146434409e-05
+gender_Unknown,7.1303585913543645e-06
+state_Odisha,7.076093995606632e-06
+industryy_Automobiles,6.24949017052423e-06
+state_Chattisgarh,6.032215398160634e-06
+industryy_Wholesale_Distributor,5.494368580655063e-06
+state_Bihar,5.483721980014062e-06
+state_Gujarat,3.776894572992609e-06
+state_Assam,2.9110882083903115e-06
+state_UTTARAKHAND,1.8811028354421367e-06
+state_PUNJAB,1.6204853337250342e-06
+state_Chandigarh,1.520858462739727e-06
+state_Jharkhand,1.3832169355627935e-06
+age_band_60+,1.3811973480675804e-06
+state_Odisha / Orissa,1.0453568920253588e-06
+age_band_<=21,7.251316281138505e-07
+state_Goa,6.678942193109045e-07
+industryy_Travel & Hospitality,2.868157659103276e-07
+status_CANCELLED,2.1934932430914632e-07
+state_Chhattisgarh,1.5424498041861705e-07
+state_GUJARAT,1.0369631166324013e-07
+state_Pondicherry,8.407686922650124e-08
+state_Himachal Pradesh,3.427942977333632e-08
+state_Jammu & Kashmir,3.2684113459626775e-08
+industryy_Education,1.151956045676239e-08
+gender_Transgender,1.1347889522513757e-08
+state_Jammu and Kashmir,4.5543040431923754e-09
+state_unknown,3.15794154386157e-09
+state_Jammu Kashmir,2.990949416919821e-09
+state_Dadra Nagar Haveli,1.2982901114554246e-09
+state_Dadra and Nagar Haveli and Daman and Diu,8.768742071363029e-10
+industryy_Liquor & Alcohol,7.75685282491518e-11
+state_East Singhbhum,0.0
+state_Puducherry,0.0
+state_UTTAR PRADESH,0.0
